@@ -1,4 +1,4 @@
-Enjoy this scraper I built to demo scrapy.  First you'll want to make sure you have scrapy.  Install with pip:
+Enjoy this scraper I built to demo scrapy (slides [here](http://www.slideshare.net/ErinShellman/downloading-the-internet-with-python-scrapy)).  First you'll want to make sure you have scrapy.  Install with pip:
 ```
 pip install scrapy
 ```
